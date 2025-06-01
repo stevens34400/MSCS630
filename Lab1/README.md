@@ -1,5 +1,7 @@
 # Multithreaded Word Frequency Counter (Multiprocessing Version)
 
+Github Link: https://github.com/stevens34400/MSCS630/tree/main/Lab1
+
 ## Lab Overview
 
 This project demonstrates how to use **multiprocessing** in Python to perform concurrent processing on a large text file. The program:

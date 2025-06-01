@@ -1,0 +1,5 @@
+Hi, my name is Steven Sisjayawan. I love building things—whether it's a piece of software, a fun side project, or a better way to solve everyday problems.
+
+On weekends, I usually enjoy a good cup of coffee while reading tech blogs or planning my next coding sprint. JavaScript and Python are my favorite tools, but I'm always open to exploring new technologies.
+
+Once, I challenged myself to learn Rust in a week. It didn’t go perfectly, but I learned a lot. The journey matters more than the destination.
